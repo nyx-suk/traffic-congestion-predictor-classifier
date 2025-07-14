@@ -33,3 +33,9 @@ This project uses a **Random Forest Classifier** to predict traffic congestion l
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+
+## Run the app
+
+```bash
+streamlit run first_working.py
+
